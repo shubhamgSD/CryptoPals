@@ -1,3 +1,4 @@
+from __future__ import print_function
 import binascii
 h = input("Enter hex string")
 hex = h.decode("hex")
