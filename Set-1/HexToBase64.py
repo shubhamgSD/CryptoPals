@@ -1,3 +1,5 @@
+'''program to convert hex string to base64'''
+
 from __future__ import print_function
 import binascii
 h = input("Enter hex string")
